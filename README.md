@@ -1,7 +1,8 @@
 ﻿Projekti
 --
 1. Lubadar:
-====
+==
+
 
     Lubadar je aplikacija razvita v appInventorju namenjena androit mobilnikom. Z njo si lahko pomagajo gozdarji, pri računanju volumna 'kubikaže' hlodov. 
 Glede na vnešeni premer in dolžino hloda izračuna njegov volumen po formuli valja. Pri vnašanju več hlodov, si lahko shraniš meritve in na koncu izpišeš končno vsoto hlodov. Primerno pri nakladanju kamijona.
